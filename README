@@ -23,9 +23,6 @@ Simon (named Genius in Brazil) game from the 80's with a really ugly GUI
 (lol) but its still fun. It got user registration in text file and some 
 other stuff. The game has three levels and it's GUI was made with SWING.
 
-I'm submitting with the eclipse project structure, so, to run, just 
-checkout the project folder into your eclipse's workspace, go to 
-"Import -> Existing Project Into Workspace" and select its folder. The 
-main class is InterfaceGenius.java.
+Main class: InterfaceGenius.java.
 
 Good luck!
